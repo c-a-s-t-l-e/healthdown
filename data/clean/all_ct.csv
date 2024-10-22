@@ -1,0 +1,64 @@
+year,FIPS,State,ST,NAME_2,Total.Appointments,Attended.Appointments,Cancelled.Appointments
+2014,09000,Connecticut,CT,NA,100,85,15
+2015,09000,Connecticut,CT,NA,120,100,20
+2016,09000,Connecticut,CT,NA,140,115,25
+2017,09000,Connecticut,CT,NA,160,130,30
+2018,09000,Connecticut,CT,NA,180,145,35
+2019,09000,Connecticut,CT,NA,200,160,40
+2020,09000,Connecticut,CT,NA,220,175,45
+2014,09001,Connecticut,CT,Fairfield,100,90,10
+2014,09003,Connecticut,CT,Hartford,110,99,11
+2014,09005,Connecticut,CT,Litchfield,120,108,12
+2014,09007,Connecticut,CT,Middlesex,130,117,13
+2014,09009,Connecticut,CT,New Haven,140,126,14
+2014,09011,Connecticut,CT,New London,150,135,15
+2014,09013,Connecticut,CT,Tolland,160,144,16
+2014,09015,Connecticut,CT,Windham,170,153,17
+2015,09001,Connecticut,CT,Fairfield,180,162,18
+2015,09003,Connecticut,CT,Hartford,190,171,19
+2015,09005,Connecticut,CT,Litchfield,200,180,20
+2015,09007,Connecticut,CT,Middlesex,210,189,21
+2015,09009,Connecticut,CT,New Haven,220,198,22
+2015,09011,Connecticut,CT,New London,230,207,23
+2015,09013,Connecticut,CT,Tolland,240,216,24
+2015,09015,Connecticut,CT,Windham,250,225,25
+2016,09001,Connecticut,CT,Fairfield,260,234,26
+2016,09003,Connecticut,CT,Hartford,270,243,27
+2016,09005,Connecticut,CT,Litchfield,280,252,28
+2016,09007,Connecticut,CT,Middlesex,290,261,29
+2016,09009,Connecticut,CT,New Haven,300,270,30
+2016,09011,Connecticut,CT,New London,310,279,31
+2016,09013,Connecticut,CT,Tolland,320,288,32
+2016,09015,Connecticut,CT,Windham,330,297,33
+2017,09001,Connecticut,CT,Fairfield,340,306,34
+2017,09003,Connecticut,CT,Hartford,350,315,35
+2017,09005,Connecticut,CT,Litchfield,360,324,36
+2017,09007,Connecticut,CT,Middlesex,370,333,37
+2017,09009,Connecticut,CT,New Haven,380,342,38
+2017,09011,Connecticut,CT,New London,390,351,39
+2017,09013,Connecticut,CT,Tolland,400,360,40
+2017,09015,Connecticut,CT,Windham,410,369,41
+2018,09001,Connecticut,CT,Fairfield,420,378,42
+2018,09003,Connecticut,CT,Hartford,430,387,43
+2018,09005,Connecticut,CT,Litchfield,440,396,44
+2018,09007,Connecticut,CT,Middlesex,450,405,45
+2018,09009,Connecticut,CT,New Haven,460,414,46
+2018,09011,Connecticut,CT,New London,470,423,47
+2018,09013,Connecticut,CT,Tolland,480,432,48
+2018,09015,Connecticut,CT,Windham,490,441,49
+2019,09001,Connecticut,CT,Fairfield,500,450,50
+2019,09003,Connecticut,CT,Hartford,510,459,51
+2019,09005,Connecticut,CT,Litchfield,520,468,52
+2019,09007,Connecticut,CT,Middlesex,530,477,53
+2019,09009,Connecticut,CT,New Haven,540,486,54
+2019,09011,Connecticut,CT,New London,550,495,55
+2019,09013,Connecticut,CT,Tolland,560,504,56
+2019,09015,Connecticut,CT,Windham,570,513,57
+2020,09001,Connecticut,CT,Fairfield,580,522,58
+2020,09003,Connecticut,CT,Hartford,590,531,59
+2020,09005,Connecticut,CT,Litchfield,600,540,60
+2020,09007,Connecticut,CT,Middlesex,610,549,61
+2020,09009,Connecticut,CT,New Haven,620,558,62
+2020,09011,Connecticut,CT,New London,630,567,63
+2020,09013,Connecticut,CT,Tolland,640,576,64
+2020,09015,Connecticut,CT,Windham,650,585,65

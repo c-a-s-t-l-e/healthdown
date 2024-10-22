@@ -6,10 +6,11 @@ mod_healthdown_ui <- function(id) {
     fluidRow(
       class = "top-row",
       box(
-        width = 2,
+        width = 4,
+        height = "100px",
         class = "card-hexagon",
-        img(src = "assets/images/hex-healthdown.png"),
-        div("Health Ranking", class = "card-hexagon-title")
+        img(src = "assets/images/aspire-logo.jpg"),
+        div("Aspire 365 Analytics", class = "card-hexagon-title", style = "color: black;")
       ),
       box(
         width = 8,
@@ -43,31 +44,20 @@ mod_healthdown_ui <- function(id) {
                 choices = all_vars,
                 selected = all_vars[2]
               )
-            )
+            ),
+            div(
+              class = "generateReport",
+              label = "Generate Report",
+              downloadButton(outputId = ns("report"), 
+                             label = "Generate report")
+            ),
           )
         )
-      ),
-      box(
-        width = 2,
-        class = "card-hexagon",
-        div(style = "height: 100px; width: 100px", 
-        img(src = "assets/images/hex-leafdown.png"),
-        div(
-          class = "card-hexagon-title",
-          tags$a(
-            "Leafdown", 
-            tags$i(class = "fas fa-xs fa-external-link-alt"), 
-            href = "https://github.com/hoga-it/leafdown", 
-            target = "_blank", 
-            style = "color: white;"
-          )
-        )
-      )
       )
     ),
     fluidRow(
       box(
-        width = 2,
+        width = 3,
         DT::dataTableOutput(ns("mytable"), height = "50vh")
       ),
       column(
